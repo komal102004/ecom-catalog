@@ -1,3 +1,3 @@
 # ecom-catalog
 
-this is commit done by anshuman awasthi
+this commit is done by anshuman awasthi
